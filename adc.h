@@ -7,6 +7,7 @@ extern "C" {
 #endif
 
 void initADC();
+int scanADC(int s);
 
 
 #ifdef	__cplusplus
